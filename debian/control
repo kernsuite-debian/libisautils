@@ -1,0 +1,13 @@
+Source: libisautils
+Section: science
+Priority: extra
+Maintainer: KERN packaging <packaging@kernsuite.info>
+Build-Depends: cmake, debhelper (>=9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/isazi/utils
+
+Package: libisautils
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Simple C++ library containing generic utilities.

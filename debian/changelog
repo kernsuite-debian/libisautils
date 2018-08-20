@@ -1,0 +1,6 @@
+libisautils (0.1.2-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 20 Aug 2018 16:00:19 +0200
