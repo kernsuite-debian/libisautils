@@ -1,6 +1,5 @@
-libisautils (0.1.2-1) UNRELEASED; urgency=low
+libisautils (0.1.2-1) bionic; urgency=low
 
-  * Initial release. Closes: #nnnn
-    <nnnn is the bug number of your ITP>
+  * Initial release. 
 
  -- KERN packaging <packaging@kernsuite.info>  Mon, 20 Aug 2018 16:00:19 +0200
